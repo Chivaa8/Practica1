@@ -1,0 +1,13 @@
+Canvis Realitzats en els Programes Finalitzats i Corregits:
+
+1. Corregim el bucle do-while per sol·licitar l'operació, assegurant-nos que només s'acceptin operacions vàlides.
+2. Apliquem mètodes específics per realitzar operacions matemàtiques: sumar, restar, multiplicar, dividir, potència i residu.
+3. En el mètode dividir, per gestionar correctament l'operació de divisió, per evitar la divisió per zero, i sol·licitem un nou valor pel divisor si és zero.
+
+Errors Corregits:
+
+1. Corregim el bucle d'entrada per als nombres, assegurant-nos que només s'acceptin valors numèrics vàlids.
+2. Resolem el problema amb el tractament de l'operació de divisió per zero, sol·licitant a l'usuari un nou valor pel divisor si és zero.
+3. Eliminem les seccions de codi redundants i no utilitzades.
+4. Corregim els càlculs erronis dins del bucle do-while per realitzar operacions matemàtiques correctament.
+
